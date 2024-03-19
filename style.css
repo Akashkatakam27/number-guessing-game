@@ -1,0 +1,15 @@
+.main{
+    background-color:cornflowerblue;
+    margin: auto;
+    margin-top: 150px;
+    margin-right: 80px;
+    margin-left: 80px;
+    height: 500px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 60px;
+}
+body{
+    background: url("./numb.jpg");
+
+}
